@@ -1,0 +1,15 @@
+Package: me.qusic.batterypeek
+Version: 0.3.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5000), libactivator
+Architecture: iphoneos-arm
+Name: BatteryPeek
+Icon: file:///Library/Activator/Listeners/me.qusic.BatteryPeek/Icon-small@2x.png
+Description: show battery level at a glance
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Qusic <QusicS@Me.com>
+Tag: purpose::extension
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterypeekDp
+dev: qusic
+homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterypeekDp
