@@ -1,7 +1,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import <CaptainHook.h>
-#import <LAActivator/libactivator.h>
+#import <Activator/libactivator.h>
 
 extern "C" void GSSendAppPreferencesChanged(CFStringRef bundleID, CFStringRef key);
 
